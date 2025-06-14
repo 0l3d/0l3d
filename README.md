@@ -63,10 +63,3 @@
 </div>
 
 ###
-<br clear="both">
-
-<div align="center">
-  <img height="650" src="https://cdn.wallpapersafari.com/32/78/W5Qwka.png"  />
-</div>
-
-###

@@ -63,11 +63,6 @@
 </div>
 
 ###
-
-<h3 align="left">The editor I use:</h3>
-
-###
-
 <br clear="both">
 
 <div align="center">

@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🦀 - Just a developer and a Rust and C lover. <br><br>📊 - Closely interested in mathematics but not very smart; tries hard at physics but struggles. <br><br>💎 - Go and Nim is among the languages i love.<br><br>🔥 Thinks object-oriented programming unnecessarily complicates things, and Linux boosts their life energy.</p>
+<p align="left">🦀 - Just a developer and a Rust and C lover. <br><br>📊 - Closely interested in mathematics but not very smart; tries hard at physics but struggles. <br><br>💎 - Go and TypeScript is among the languages i love.<br><br>🔥 Thinks object-oriented programming unnecessarily complicates things, and Linux boosts their life energy.</p>
 
 ###
 
@@ -12,6 +12,8 @@
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
   <img width="12" />

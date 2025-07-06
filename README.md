@@ -8,8 +8,6 @@
 
 # My Projects
 
-## Main Projects Table
-
 | Project    | Description                                                                                                      | Category          | GitHub Link                                                    |
 |------------|------------------------------------------------------------------------------------------------------------------|-------------------|----------------------------------------------------------------|
 | **ffetch** | F-Fetch is Fast and Minimal. Written in Rust. It's very simple, designed so you can pick it up and replace it.  | System Info       | [View on GitHub](https://github.com/0l3d/ffetch)              |
@@ -19,25 +17,6 @@
 | **crlib**  | A simple, no-std Rust library providing basic C library bindings and utility functions for systems programming. | Library/Systems   | [View on GitHub](https://github.com/0l3d/crlib)               |
 | **donut**  | A classic spinning donut animation implemented in Rust using no_std, inspired by Andy Sloane's famous donut.c.  | Graphics/Demo     | [View on GitHub](https://github.com/0l3d/donut)               |
 | **crshell**| A minimal dash-like shell written in Crust. @tsoding                                                            | Shell/CLI         | [View on GitHub](https://github.com/0l3d/crshell)             |
-
----
-
-## Project Categories
-
-### 🔧 System Tools
-- **ffetch** - System information fetcher
-- **crshell** - Minimal shell implementation
-
-### 🔐 Security & Utilities
-- **fpass** - Password manager
-- **sis** - Fuzzy finder for terminal (TUI)
-
-### 📚 Libraries
-- **matchr** - Fuzzy matching library
-- **crlib** - C library bindings for no_std
-
-### 🎮 Graphics & Demos
-- **donut** - Classic spinning donut animation
 
 ---
 

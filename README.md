@@ -10,7 +10,7 @@
 
 [**ffetch**](https://github.com/0l3d/ffetch) - Fast and minimal system info fetcher
 
-[**crshell**](https://github.com/0l3d/crshell) - Minimal dash-like shell written in Rust
+[**crshell**](https://github.com/0l3d/crshell) - Minimal dash-like shell written in Crust
 
 [**fpass**](https://github.com/0l3d/fpass) - CLI password manager, minimal and fast
 
@@ -20,7 +20,9 @@
 
 [**crlib**](https://github.com/0l3d/crlib) - No-std C library bindings for systems programming
 
-[**donut**](https://github.com/0l3d/donut) - Classic spinning donut animation in no_std Rust
+[**donut**](https://github.com/0l3d/donut) - Classic spinning donut animation in Crust.
+
+[**brainsuck**](https://github.com/0l3d/brainsuck) - Minimalist Brainfuck interpreter with Crust.
 
 ---
 

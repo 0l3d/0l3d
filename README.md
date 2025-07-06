@@ -1,29 +1,65 @@
-<h1 align="center">Hello,  I'm 0l3d.</h1>
+<table align="left">
+<tr>
+<td width="40%">
+<img src="donut.gif" alt="Coding GIF" width="100%"/>
+</td>
+<td width="60%">
+<h1>Hello, I'm 0l3d.</h1>
+<p>
+  <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+  <img src="https://img.shields.io/badge/void%20linux-478061?style=for-the-badge&logo=linux&logoColor=white" alt="Void Linux"/>
+</p>
+<p>🦀 Rust and C lover, minimalist developer.<br>
+💎 Go enthusiast, OOP skeptic.<br>
+🔥 Linux boosts life energy.</p>
+</td>
+</tr>
+</table>
 
-###
+<br clear="left"/>
 
-<p align="left">🦀 - Just a developer and a Rust and C lover. <br><br>📊 - Closely interested in mathematics but not very smart; tries hard at physics but struggles. <br><br>💎 - Go and TypeScript is among the languages i love.<br><br>🔥 Thinks object-oriented programming unnecessarily complicates things, and Linux boosts their life energy.</p>
+### 👋 About Me
+Systems programmer passionate about performance and minimalism. I believe in writing code that does one thing exceptionally well.
 
-###
+### 📈 GitHub Stats
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=0l3d&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats"/>
+</div>
+
+<div align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0l3d&theme=dark&hide_border=true" alt="GitHub Streak"/>
+</div>
 
 # My Projects
+[**ffetch**](https://github.com/0l3d/ffetch) - Fast and minimal system info fetcher  
+*→ Lightning-fast neofetch alternative* 🚀 **Active**
 
-[**ffetch**](https://github.com/0l3d/ffetch) - Fast and minimal system info fetcher
+[**crshell**](https://github.com/0l3d/crshell) - Minimal dash-like shell written in Crust  
+*→ POSIX-compliant, lightweight shell* ⚡ **Infrequent Updates**
 
-[**crshell**](https://github.com/0l3d/crshell) - Minimal dash-like shell written in Crust
+[**fpass**](https://github.com/0l3d/fpass) - CLI password manager, minimal and fast  
+*→ Secure password management from terminal* 🔒 **Active**
 
-[**fpass**](https://github.com/0l3d/fpass) - CLI password manager, minimal and fast
+[**sis**](https://github.com/0l3d/search-in-sight) - Fast fuzzy finder for terminal (TUI)  
+*→ Blazing fast file/content search* 🔍 **Active**
 
-[**sis**](https://github.com/0l3d/search-in-sight) - Fast fuzzy finder for terminal (TUI)
+[**matchr**](https://github.com/0l3d/matchr) - Lightweight fuzzy matcher library  
+*→ Core matching algorithms for CLI tools* 📚 **Optimization Updates**
 
-[**matchr**](https://github.com/0l3d/matchr) - Lightweight fuzzy matcher library
+[**crlib**](https://github.com/0l3d/crlib) - No-std C library bindings for systems programming  
+*→ Rust bindings for system-level C libraries* 🔧 **Optimization Updates**
 
-[**crlib**](https://github.com/0l3d/crlib) - No-std C library bindings for systems programming
+[**donut**](https://github.com/0l3d/donut) - Classic spinning donut animation in Crust  
+*→ Mathematical art meets systems programming* 🍩 **Infrequent Updates**
 
-[**donut**](https://github.com/0l3d/donut) - Classic spinning donut animation in Crust.
-
-[**brainsuck**](https://github.com/0l3d/brainsuck) - Minimalist Brainfuck interpreter with Crust.
+[**brainsuck**](https://github.com/0l3d/brainsuck) - Minimalist Brainfuck interpreter with Crust  
+*→ Esoteric language implementation* 🧠 **Infrequent Updates**
 
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=0l3d&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+</p>
 
 *All projects focus on performance, minimalism, and systems programming.*

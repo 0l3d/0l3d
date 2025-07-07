@@ -20,18 +20,6 @@
 
 <br clear="left"/>
 
-### 👋 About Me
-Systems programmer passionate about performance and minimalism. I believe in writing code that does one thing exceptionally well.
-
-### 📈 GitHub Stats
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=0l3d&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats"/>
-</div>
-
-<div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0l3d&theme=dark&hide_border=true" alt="GitHub Streak"/>
-</div>
-
 # My Projects
 [**ffetch**](https://github.com/0l3d/ffetch) - Fast and minimal system info fetcher  
 *→ Lightning-fast neofetch alternative* 🚀 **Active**

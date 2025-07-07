@@ -46,8 +46,6 @@
 *→ Esoteric language implementation* 🧠 **Infrequent Updates**
 
 ---
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=0l3d&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-</p>
+
 
 *All projects focus on performance, minimalism, and systems programming.*

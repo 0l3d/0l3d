@@ -30,6 +30,9 @@
 [**fpass**](https://github.com/0l3d/fpass) - CLI password manager, minimal and fast  
 *→ Secure password management from terminal* 🔒 **Active**
 
+[**edfi**](https://github.com/0l3d/edfi) - TUI text editor, simple and fast  
+*→ Fast and Simple vim-like editor* 📝 **Active**
+
 [**sis**](https://github.com/0l3d/search-in-sight) - Fast fuzzy finder for terminal (TUI)  
 *→ Blazing fast file/content search* 🔍 **Active**
 

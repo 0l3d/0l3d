@@ -39,9 +39,6 @@
 [**matchr**](https://github.com/0l3d/matchr) - Lightweight fuzzy matcher library  
 *→ Core matching algorithms for CLI tools* 📚 **Optimization Updates**
 
-[**crlib**](https://github.com/0l3d/crlib) - No-std C library bindings for systems programming  
-*→ Rust bindings for system-level C libraries* 🔧 **Optimization Updates**
-
 [**donut**](https://github.com/0l3d/donut) - Classic spinning donut animation in Crust  
 *→ Mathematical art meets systems programming* 🍩 **Infrequent Updates**
 

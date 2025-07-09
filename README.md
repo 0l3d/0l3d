@@ -42,7 +42,7 @@
 [**donut**](https://github.com/0l3d/donut) - Classic spinning donut animation in Crust  
 *→ Mathematical art meets systems programming* 🍩 **Infrequent Updates**
 
-[**brainsuck**](https://github.com/0l3d/brainsuck) - Minimalist Brainfuck interpreter with C
+[**brainsuck**](https://github.com/0l3d/brainsuck) - Minimalist Brainfuck interpreter with C  
 *→ Esoteric language implementation* 🧠 **Infrequent Updates**
 
 ---

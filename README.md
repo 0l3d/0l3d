@@ -24,7 +24,7 @@
 [**ffetch**](https://github.com/0l3d/ffetch) - Fast and minimal system info fetcher  
 *→ Lightning-fast neofetch alternative* 🚀 **Active**
 
-[**minshell**](https://github.com/0l3d/minshell) - Minimal shell written in C.  
+[**minshell**](https://github.com/0l3d/minshell) - Minimal shell written in C  
 *→ POSIX-compliant, lightweight shell* ⚡ **Infrequent Updates**
 
 [**fpass**](https://github.com/0l3d/fpass) - CLI password manager, minimal and fast  
@@ -32,6 +32,9 @@
 
 [**edfi**](https://github.com/0l3d/edfi) - TUI text editor, simple and fast  
 *→ Fast and Simple vim-like editor* 📝 **Active**
+
+[**wshot**](https://github.com/0l3d/wshot) - CLI Screenshot Utility, Minimal and Simple  
+*→ Fast, Minimal and Simple screenshot utility for wayland.* 📝 **Active*
 
 [**sis**](https://github.com/0l3d/search-in-sight) - Fast fuzzy finder for terminal (TUI)  
 *→ Blazing fast file/content search* 🔍 **Active**

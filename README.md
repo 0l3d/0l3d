@@ -24,7 +24,7 @@
 [**ffetch**](https://github.com/0l3d/ffetch) - Fast and minimal system info fetcher  
 *→ Lightning-fast neofetch alternative* 🚀 **Active**
 
-[**crshell**](https://github.com/0l3d/crshell) - Minimal dash-like shell written in Crust  
+[**minshell**](https://github.com/0l3d/minshell) - Minimal shell written in C.
 *→ POSIX-compliant, lightweight shell* ⚡ **Infrequent Updates**
 
 [**fpass**](https://github.com/0l3d/fpass) - CLI password manager, minimal and fast  

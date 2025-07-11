@@ -34,7 +34,7 @@
 *→ Fast and Simple vim-like editor* 📝 **Active**
 
 [**wshot**](https://github.com/0l3d/wshot) - CLI Screenshot Utility, Minimal and Simple  
-*→ Fast, Minimal and Simple screenshot utility for wayland.* 📝 **Active*
+*→ Fast, Minimal and Simple screenshot utility for wayland.* 📝 **Active**
 
 [**sis**](https://github.com/0l3d/search-in-sight) - Fast fuzzy finder for terminal (TUI)  
 *→ Blazing fast file/content search* 🔍 **Active**

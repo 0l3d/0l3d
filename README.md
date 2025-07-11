@@ -11,8 +11,8 @@
   <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
   <img src="https://img.shields.io/badge/void%20linux-478061?style=for-the-badge&logo=linux&logoColor=white" alt="Void Linux"/>
 </p>
-<p>🦀 Rust and C lover, minimalist developer.<br>
-💎 Go enthusiast, OOP skeptic.<br>
+<p> 🇨 C lover, minimalist developer.<br>
+💎 Go and Rust enthusiast, OOP skeptic.<br>
 🔥 Linux boosts life energy.</p>
 </td>
 </tr>

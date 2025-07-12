@@ -43,7 +43,7 @@
 *→ Core matching algorithms for CLI tools* 📚 **Optimization Updates**
 
 [**donut**](https://github.com/0l3d/donut) - Classic spinning donut animation in Crust  
-*→ Mathematical art meets systems programming* 🍩 **Infrequent Updates**
+*→ Mathematical art meets systems programming* 🍩 **Finished**
 
 [**brainsuck**](https://github.com/0l3d/brainsuck) - Minimalist Brainfuck interpreter with C  
 *→ Esoteric language implementation* 🧠 **Finished**

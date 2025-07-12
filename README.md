@@ -25,16 +25,16 @@
 *→ Lightning-fast neofetch alternative* 🚀 **Active**
 
 [**minshell**](https://github.com/0l3d/minshell) - Minimal shell written in C  
-*→ POSIX-compliant, lightweight shell* ⚡ **Infrequent Updates**
+*→ POSIX-compliant, lightweight shell* ⚡ **Active**
 
 [**fpass**](https://github.com/0l3d/fpass) - CLI password manager, minimal and fast  
-*→ Secure password management from terminal* 🔒 **Active**
+*→ Secure password management from terminal* 🔒 **Infrequent Updates**
 
 [**edfi**](https://github.com/0l3d/edfi) - TUI text editor, simple and fast  
 *→ Fast and Simple vim-like editor* 📝 **Active**
 
 [**wshot**](https://github.com/0l3d/wshot) - CLI Screenshot Utility, Minimal and Simple  
-*→ Fast, Minimal and Simple screenshot utility for wayland.* 📝 **Active**
+*→ Fast, Minimal and Simple screenshot utility for wayland.* 📷 **Security Updates**
 
 [**sis**](https://github.com/0l3d/search-in-sight) - Fast fuzzy finder for terminal (TUI)  
 *→ Blazing fast file/content search* 🔍 **Active**
@@ -46,7 +46,7 @@
 *→ Mathematical art meets systems programming* 🍩 **Infrequent Updates**
 
 [**brainsuck**](https://github.com/0l3d/brainsuck) - Minimalist Brainfuck interpreter with C  
-*→ Esoteric language implementation* 🧠 **Infrequent Updates**
+*→ Esoteric language implementation* 🧠 **Finished**
 
 ---
 

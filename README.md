@@ -17,38 +17,22 @@
 </td>
 </tr>
 </table>
-
 <br clear="left"/>
 
 # My Projects
-[**ffetch**](https://github.com/0l3d/ffetch) - Fast and minimal system info fetcher  
-*→ Lightning-fast neofetch alternative* 🚀 **Active**
 
-[**minshell**](https://github.com/0l3d/minshell) - Minimal shell written in C  
-*→ POSIX-compliant, lightweight shell* ⚡ **Active**
-
-[**fpass**](https://github.com/0l3d/fpass) - CLI password manager, minimal and fast  
-*→ Secure password management from terminal* 🔒 **Infrequent Updates**
-
-[**edfi**](https://github.com/0l3d/edfi) - TUI text editor, simple and fast  
-*→ Fast and Simple vim-like editor* 📝 **Active**
-
-[**wshot**](https://github.com/0l3d/wshot) - CLI Screenshot Utility, Minimal and Simple  
-*→ Fast, Minimal and Simple screenshot utility for wayland.* 📷 **Security Updates**
-
-[**sis**](https://github.com/0l3d/search-in-sight) - Fast fuzzy finder for terminal (TUI)  
-*→ Blazing fast file/content search* 🔍 **Active**
-
-[**matchr**](https://github.com/0l3d/matchr) - Lightweight fuzzy matcher library  
-*→ Core matching algorithms for CLI tools* 📚 **Optimization Updates**
-
-[**donut**](https://github.com/0l3d/donut) - Classic spinning donut animation in Crust  
-*→ Mathematical art meets systems programming* 🍩 **Finished**
-
-[**brainsuck**](https://github.com/0l3d/brainsuck) - Minimalist Brainfuck interpreter with C  
-*→ Esoteric language implementation* 🧠 **Finished**
+| Project | Description | Status |
+|---------|-------------|--------|
+| [**ffetch**](https://github.com/0l3d/ffetch) | Fast and minimal system info fetcher | 🚀 **Active** |
+| [**minshell**](https://github.com/0l3d/minshell) | Minimal POSIX-compliant shell written in C | ⚡ **Active** |
+| [**fpass**](https://github.com/0l3d/fpass) | CLI password manager, minimal and fast | 🔒 **Infrequent Updates** |
+| [**edfi**](https://github.com/0l3d/edfi) | TUI text editor, simple and fast | 📝 **Active** |
+| [**babyshark**](https://github.com/0l3d/babyshark) | CLI Packet Sniffer, simple | 🌎 **Infrequent Updates**|
+| [**wshot**](https://github.com/0l3d/wshot) | CLI Screenshot utility for Wayland | 📷 **Security Updates** |
+| [**sis**](https://github.com/0l3d/search-in-sight) | Fast fuzzy finder for terminal (TUI) | 🔍 **Active** |
+| [**matchr**](https://github.com/0l3d/matchr) | Lightweight fuzzy matcher library | 📚 **Optimization Updates** |
+| [**donut**](https://github.com/0l3d/donut) | Classic spinning donut animation in Rust | 🍩 **Finished** |
+| [**brainsuck**](https://github.com/0l3d/brainsuck) | Minimalist Brainfuck interpreter with C | 🧠 **Finished** |
 
 ---
-
-
 *All projects focus on performance, minimalism, and systems programming.*

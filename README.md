@@ -5,9 +5,10 @@
       <h1>Hello, I'm 0l3d.</h1>
       <p>
         <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+        <img src="https://img.shields.io/badge/lua-%230075A8.svg?style=for-the-badge&logo=lua&logoColor=white"/>
+        <img src="https://img.shields.io/badge/void%20linux-478061?style=for-the-badge&logo=linux&logoColor=white"/>
         <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"/>
         <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
-        <img src="https://img.shields.io/badge/void%20linux-478061?style=for-the-badge&logo=linux&logoColor=white"/>
       </p>
       <p>
         💙 C lover, minimalist developer.<br>

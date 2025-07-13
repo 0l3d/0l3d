@@ -11,7 +11,7 @@
         <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
       </p>
       <p>
-        💙 C lover, minimalist developer.<br>
+        💙 C and Lua lover, minimalist developer.<br>
         💎 Go and Rust enthusiast, OOP skeptic.<br>
         🔥 Linux boosts life energy.
       </p>

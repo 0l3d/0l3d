@@ -36,7 +36,7 @@
 | **[edfi](https://github.com/0l3d/edfi)**           | TUI text editor                      | 🦀 | 🧠 Active             |
 | **[babyshark](https://github.com/0l3d/babyshark)** | CLI packet sniffer                   | 🇨 | 🌍 Infrequent Updates |
 | **[wshot](https://github.com/0l3d/wshot)**         | Wayland screenshot CLI               | 🇨 | 📸 Security Updates   |
-| **[sis](https://github.com/0l3d/search-in-sight)**             | TUI fuzzy finder                     | 🦀 | 🔍 Active             |
+| **[sis](https://github.com/0l3d/search-in-sight)** | TUI fuzzy finder                     | 🦀 | 🔍 Active             |
 | **[matchr](https://github.com/0l3d/matchr)**       | Fuzzy matcher library                | 🦀 | 🚧 Finished           |
 | **[donut](https://github.com/0l3d/donut)**         | Spinning donut in Rust               | 🦀 | 🍩 Finished           |
 | **[brainsuck](https://github.com/0l3d/brainsuck)** | Brainfuck interpreter in C           | 🇨 | 🧠 Finished           |

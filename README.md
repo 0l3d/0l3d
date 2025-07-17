@@ -30,16 +30,17 @@
 
 | Project | Description | Language | Status |
 |:-------:|:-----------:|:--------:|:------:|
-| **[ffetch](https://github.com/0l3d/ffetch)**       | Fast and minimal system info fetcher | 🦀 | 🚀 Active             |
-| **[minshell](https://github.com/0l3d/minshell)**   | Minimal POSIX shell.                 | 🇨 | ⚡ Active             |
-| **[fpass](https://github.com/0l3d/fpass)**         | Minimal password manager             | 🦀 | 🔐 Infrequent Updates |
-| **[edfi](https://github.com/0l3d/edfi)**           | TUI text editor                      | 🦀 | 🧠 Active             |
-| **[babyshark](https://github.com/0l3d/babyshark)** | CLI packet sniffer                   | 🇨 | 🌍 Infrequent Updates |
-| **[wshot](https://github.com/0l3d/wshot)**         | Wayland screenshot CLI               | 🇨 | 📸 Security Updates   |
-| **[sis](https://github.com/0l3d/search-in-sight)** | TUI fuzzy finder                     | 🦀 | 🔍 Active             |
-| **[matchr](https://github.com/0l3d/matchr)**       | Fuzzy matcher library                | 🦀 | 🚧 Finished           |
-| **[donut](https://github.com/0l3d/donut)**         | Spinning donut in Rust               | 🦀 | 🍩 Finished           |
-| **[brainsuck](https://github.com/0l3d/brainsuck)** | Brainfuck interpreter in C           | 🇨 | 🧠 Finished           |
+| **[ffetch](https://github.com/0l3d/ffetch)**       | Fast and minimal system info fetcher   | 🦀 | First Class           |
+| **[minshell](https://github.com/0l3d/minshell)**   | Minimal POSIX shell.                   | 🇨 | Holding Pattern       |
+| **[fpass](https://github.com/0l3d/fpass)**         | Minimal password manager               | 🦀 | Hangar                |
+| **[sbox](https://github.com/0l3d/sbox)**           | Minimal & Customizable sandbox utility | 🇨 | First Class           |
+| **[edfi](https://github.com/0l3d/edfi)**           | TUI text editor                        | 🦀 | First Class           |
+| **[babyshark](https://github.com/0l3d/babyshark)** | CLI packet sniffer                     | 🇨 | Turbulance            |
+| **[wshot](https://github.com/0l3d/wshot)**         | Wayland screenshot CLI                 | 🇨 | Cruising Altitude     |
+| **[sis](https://github.com/0l3d/search-in-sight)** | TUI fuzzy finder                       | 🦀 | First Class           |
+| **[matchr](https://github.com/0l3d/matchr)**       | Fuzzy matcher library                  | 🦀 | Landed                |
+| **[donut](https://github.com/0l3d/donut)**         | Spinning donut in Rust                 | 🦀 | Landed                |
+| **[brainsuck](https://github.com/0l3d/brainsuck)** | Brainfuck interpreter in C             | 🇨 | Landed                |
 
 </div>
 

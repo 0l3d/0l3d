@@ -41,7 +41,7 @@
 | **[matchr](https://github.com/0l3d/matchr)**       | Fuzzy matcher library                  | 🦀 | Landed                |
 | **[donut](https://github.com/0l3d/donut)**         | Spinning donut in Rust                 | 🦀 | Landed                |
 | **[brainsuck](https://github.com/0l3d/brainsuck)** | Brainfuck interpreter in C             | 🇨 | Landed                |
-| **[halloc](https://github.com/0l3d/halloc)**       | Simple Memory Allocator                | 🇨 | Boarding              |
+| **[halloc](https://github.com/0l3d/halloc)**       | Simple Memory Allocator                | 🇨 | Landed                |
 
 </div>
 

@@ -35,7 +35,7 @@
 | **[fpass](https://github.com/0l3d/fpass)**         | Minimal password manager               | 🦀 | Hangar                |
 | **[sbox](https://github.com/0l3d/sbox)**           | Minimal & Customizable sandbox utility | 🇨 | First Class           |
 | **[edfi](https://github.com/0l3d/edfi)**           | TUI text editor                        | 🦀 | First Class           |
-| **[babyshark](https://github.com/0l3d/babyshark)** | CLI packet sniffer                     | 🇨 | Turbulance            |
+| **[babyshark](https://github.com/0l3d/babyshark)** | CLI packet sniffer                     | 🇨 | Landed                |
 | **[wshot](https://github.com/0l3d/wshot)**         | Wayland screenshot CLI                 | 🇨 | Cruising Altitude     |
 | **[sis](https://github.com/0l3d/search-in-sight)** | TUI fuzzy finder                       | 🦀 | First Class           |
 | **[matchr](https://github.com/0l3d/matchr)**       | Fuzzy matcher library                  | 🦀 | Landed                |

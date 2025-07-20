@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="donut.gif" alt="donut" width="80%">
+      <img src="stafsim.gif" alt="donut" width="100%">
       <h1>Hello, I'm 0l3d.</h1>
       <p>
         <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>

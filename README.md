@@ -43,6 +43,7 @@
 | **[brainsuck](https://github.com/0l3d/brainsuck)** | Brainfuck interpreter                  | 🇨 | Landed                |
 | **[halloc](https://github.com/0l3d/halloc)**       | Simple Memory Allocator                | 🇨 | Landed                |
 | **[zor](https://github.com/0l3d/zor)**             | Simple XOR enc/dec utility             | 🇨 | Landed                |
+| **[stafsim](https://github.com/0l3d/stafsim)**     | Simple Starfield Simulator             | 🇨 | Landed                |
 </div>
 
 ---

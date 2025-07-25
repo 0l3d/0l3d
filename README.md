@@ -4,11 +4,10 @@
       <img src="stafsim.gif" alt="donut" width="100%">
       <h1>Hello, I'm 0l3d.</h1>
       <p>
-        <img src="https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=c&logoColor=white" />
-        <img src="https://img.shields.io/badge/lua-%230075A8.svg?style=for-the-badge&logo=lua&logoColor=white"/>
+        <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+        <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+        <img src="https://img.shields.io/badge/HolyC-87CF3E?style=for-the-badge&logo=c&logoColor=white" />
         <img src="https://img.shields.io/badge/void%20linux-478061?style=for-the-badge&logo=linux&logoColor=white"/>
-        <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
-        <img src="https://img.shields.io/badge/rust-00000C?style=for-the-badge&logo=rust&logoColor=white" />
       </p>
       <p>
         💙 C and Lua lover, minimalist developer.<br>

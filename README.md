@@ -5,8 +5,6 @@
       <h1>Hello, I'm 0l3d.</h1>
       <p>
         <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-        <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-        <img src="https://img.shields.io/badge/HolyC-87CF3E?style=for-the-badge&logo=c&logoColor=white" />
         <img src="https://img.shields.io/badge/void%20linux-478061?style=for-the-badge&logo=linux&logoColor=white"/>
       </p>
       <p>

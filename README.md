@@ -16,7 +16,7 @@
  / / ____|  Language:  Code, Coffee, and Creativity.     
  |-/.____.  Seed:      0xBAADF00D
 /___\ /___\ GCCParams: -O2 -g -Wall -Wextra -ffast-math
-$ gcc stafsim.c -o stafsim
+$ gcc stafsim.c -o stafsim -lm
 $ ./stafsim</code></pre>
       <img src="stafsim.gif" alt="donut" width="100%">
     </td>

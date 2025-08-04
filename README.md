@@ -19,9 +19,10 @@
  / / ____|  Language:  Code, Coffee, and Creativity.     
  |-/.____.  Seed:      0xBAADF00D
 /___\ /___\ GCCParams: -O2 -g -Wall -Wextra -ffast-math
-$ gcc stafsim.c -o stafsim -lm
-$ ./stafsim</code></pre>
-      <img src="stafsim.gif" alt="donut" width="100%">
+$ nasm -f elf64 rainas.asm -o rainas.o
+$ gcc rainas.o -o rainas
+$ ./rainas</code></pre>
+      <img src="rainas.gif" alt="rainas" width="100%">
     </td>
   </tr>
 </table>

@@ -5,6 +5,7 @@
       <p> A simple programmer. </p>
       <p>
         <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+        <img src="https://img.shields.io/badge/ASM-6E4C1E?style=for-the-badge&logo=asm&logoColor=white" />
         <img src="https://img.shields.io/badge/void%20linux-478061?style=for-the-badge&logo=linux&logoColor=white"/>
         <a href="https://www.buymeacoffee.com/oled" target="_blank">
           <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>

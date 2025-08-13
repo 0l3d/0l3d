@@ -1,28 +1,17 @@
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h1>Hello, I'm 0l3d.</h1>
-      <p> A simple programmer. </p>
-      <p>
-        <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-        <img src="https://img.shields.io/badge/ASM-6E4C1E?style=for-the-badge&logo=asm&logoColor=white" />
-        <img src="https://img.shields.io/badge/void%20linux-478061?style=for-the-badge&logo=linux&logoColor=white"/>
-        <a href="https://www.buymeacoffee.com/oled" target="_blank">
-          <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
-        </a>
-        <!--START_SECTION:waka-->
+# Hello, I'm 0l3d.
 
-```txt
-C          15 hrs 36 mins  ████████████████████████▓   98.04 %
-Assembly   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
-Lua        8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-```
+A simple programmer.
 
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![ASM](https://img.shields.io/badge/ASM-6E4C1E?style=for-the-badge&logo=asm&logoColor=white)
+![Void Linux](https://img.shields.io/badge/void%20linux-478061?style=for-the-badge&logo=linux&logoColor=white)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/oled)
+
+<!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-      </p>
-      <pre><code class="language-bash">$ ffetch
+
+```
+$ ffetch
    .---.    User:      0l3d  
  .'_:___".  OS:        Void Linux x86_64     
  |__ --==|  Kernel:    6.X (custom)     
@@ -33,8 +22,6 @@ Other      0 secs          ░░░░░░░░░░░░░░░░░�
 /___\ /___\ GCCParams: -O2 -g -Wall -Wextra -ffast-math
 $ nasm -f elf64 rainas.asm -o rainas.o
 $ gcc rainas.o -o rainas
-$ ./rainas</code></pre>
-      <img src="rainas.gif" alt="rainas" width="100%">
-    </td>
-  </tr>
-</table>
+$ ./rainas
+```
+<img src="rainas.gif" alt="rainas" width="100%" />

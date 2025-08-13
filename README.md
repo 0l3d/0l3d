@@ -1,14 +1,3 @@
- <!--START_SECTION:waka-->
-
-```txt
-C          15 hrs 36 mins  ████████████████████████▓   98.04 %
-Assembly   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
-Lua        8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-```
-
-<!--END_SECTION:waka-->
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -21,6 +10,8 @@ Other      0 secs          ░░░░░░░░░░░░░░░░░�
         <a href="https://www.buymeacoffee.com/oled" target="_blank">
           <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
         </a>
+        <!--START_SECTION:waka-->
+        <!--END_SECTION:waka-->
       </p>
       <pre><code class="language-bash">$ ffetch
    .---.    User:      0l3d  

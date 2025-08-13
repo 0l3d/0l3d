@@ -1,3 +1,5 @@
+ <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <table>
   <tr>
     <td width="50%" valign="top">

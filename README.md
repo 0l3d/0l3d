@@ -9,7 +9,9 @@ A simple programmer.
 
 <!--START_SECTION:waka-->
 
-```txt
+```rust
+Total Time: 15 hrs 55 mins
+
 C          15 hrs 36 mins  ████████████████████████▓   98.04 %
 Assembly   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
 Lua        8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %

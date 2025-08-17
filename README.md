@@ -10,13 +10,13 @@ A simple programmer.
 <!--START_SECTION:waka-->
 
 ```rust
-Total Time: 16 hrs 20 mins
+Total Time: 17 hrs 31 mins
 
-C          16 hrs 10 mins  ████████████████████████▓   99.04 %
-Lua        8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+C          17 hrs 24 mins  █████████████████████████   99.36 %
+Lua        5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
 Assembly   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->

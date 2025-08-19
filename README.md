@@ -7,20 +7,6 @@ A simple programmer.
 ![Void Linux](https://img.shields.io/badge/void%20linux-478061?style=for-the-badge&logo=linux&logoColor=white)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/oled)
 
-<!--START_SECTION:waka-->
-
-```rust
-Total Time: 14 hrs 18 mins
-
-C          14 hrs 11 mins  ████████████████████████▓   99.19 %
-Lua        5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
-C++        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-hyprlang   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-```
-
-<!--END_SECTION:waka-->
-
 ```
 $ ffetch
    .---.    User:      0l3d  

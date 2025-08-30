@@ -18,8 +18,7 @@ $ ffetch
  / / ____|  Language:  Code, Coffee, and Creativity.     
  |-/.____.  Seed:      0xBAADF00D
 /___\ /___\ GCCParams: -O2 -g -Wall -Wextra -ffast-math
-$ nasm -f elf64 rainas.asm -o rainas.o
-$ gcc rainas.o -o rainas
-$ ./rainas
+$ cargo build --release
+$ ./target/release/rmatrix
 ```
-<img src="rainas.gif" alt="rainas" width="100%" />
+<img src="rmatrix.gif" alt="rainas" width="100%" />

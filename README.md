@@ -14,7 +14,7 @@ $ ffetch
  .'_:___".  OS:        Void Linux x86_64     
  |__ --==|  Kernel:    6.X (custom)     
  [  ]  :[|  Shell:     zsh    
- |__| I=[|  Editor:    vim
+ |__| I=[|  Editor:    vim/helix
  / / ____|  Language:  Code, Coffee, and Creativity.     
  |-/.____.  Seed:      0xBAADF00D
 /___\ /___\ GCCParams: -O2 -g -Wall -Wextra -ffast-math

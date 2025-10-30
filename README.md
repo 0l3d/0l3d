@@ -15,10 +15,7 @@ $ ffetch
  |__ --==|  Kernel:    6.X (custom)     
  [  ]  :[|  Shell:     zsh    
  |__| I=[|  Editor:    vim
- / / ____|  Language:  Code, Coffee, and Creativity.     
+ / / ____|  M/D/C:     4G/128G/Pentium 
  |-/.____.  Seed:      0xBAADF00D
 /___\ /___\ GCCParams: -O2 -g -Wall -Wextra -ffast-math
-$ cargo build --release
-$ ./target/release/rmatrix
 ```
-<img src="rmatrix.gif" alt="rainas" width="100%" />

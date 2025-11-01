@@ -11,8 +11,8 @@ A simple programmer.
 ```
 $ ffetch
    .---.    User:      0l3d  
- .'_:___".  OS:        FreeBSD 14    
- |__ --==|  Kernel:    BSD     
+ .'_:___".  OS:        FreeBSD    
+ |__ --==|  Kernel:    14
  [  ]  :[|  Shell:     sh   
  |__| I=[|  Editor:    vim
  / / ____|  M/D/C:     4G/128G/Pentium 

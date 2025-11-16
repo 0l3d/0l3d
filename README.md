@@ -9,12 +9,12 @@ A simple programmer.
 
 ```
 $ ffetch
-   .---.    User:      0l3d  
- .'_:___".  OS:        FreeBSD    
+   .---.    User:      0l3d
+ .'_:___".  OS:        FreeBSD
  |__ --==|  Kernel:    14
  [  ]  :[|  Shell:     sh   
- |__| I=[|  Editor:    vim
- / / ____|  M/D/C:     4G/128G/Pentium 
+ |__| I=[|  Editor:    everything i can write
+ / / ____|  M/D/C:     4G/128G/Pentium
  |-/.____.  Seed:      0xBAADF00D
 /___\ /___\ GCCParams: -O2 -g -Wall -Wextra -ffast-math
 ```

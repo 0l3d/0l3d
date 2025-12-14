@@ -10,8 +10,8 @@ A simple programmer.
 ```
 $ ffetch
    .---.    User:      0l3d
- .'_:___".  OS:        FreeBSD
- |__ --==|  Kernel:    14
+ .'_:___".  OS:        Gentoo Linux
+ |__ --==|  Kernel:    Custom
  [  ]  :[|  Shell:     sh   
  |__| I=[|  Editor:    everything i can write
  / / ____|  M/D/C:     4G/128G/Pentium

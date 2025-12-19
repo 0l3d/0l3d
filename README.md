@@ -10,11 +10,11 @@ A simple programmer.
 ```
 $ ffetch
    .---.    User:      0l3d
- .'_:___".  OS:        Gentoo Linux
- |__ --==|  Kernel:    Custom
- [  ]  :[|  Shell:     sh   
+ .'_:___".  OS:        OpenBSD/FreeBSD
+ |__ --==|  Kernel:    BSD
+ [  ]  :[|  Shell:     ksh/sh   
  |__| I=[|  Editor:    everything i can write
  / / ____|  M/D/C:     4G/128G/Pentium
  |-/.____.  Seed:      0xBAADF00D
-/___\ /___\ GCCParams: -O2 -g -Wall -Wextra -ffast-math
+/___\ /___\ Params: -O2 -g -Wall -Wextra -ffast-math
 ```

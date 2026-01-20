@@ -10,9 +10,9 @@ A simple programmer.
 ```
 $ ffetch
    .---.    User:      0l3d
- .'_:___".  OS:        FreeBSD/OpenBSD
+ .'_:___".  OS:        OpenBSD
  |__ --==|  Kernel:    BSD
- [  ]  :[|  Shell:     sh/ksh
+ [  ]  :[|  Shell:     ksh
  |__| I=[|  Editor:    everything i can write
  / / ____|  M/D/C:     4G/128G/Pentium
  |-/.____.  Seed:      0xBAADF00D

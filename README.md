@@ -4,6 +4,7 @@ A simple programmer.
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![ASM](https://img.shields.io/badge/ASM-6E4C1E?style=for-the-badge&logo=asm&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-487d71?style=for-the-badge&logo=lua&logoColor=darkblue)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/oled)
 
 ```

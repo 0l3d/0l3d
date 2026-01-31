@@ -3,7 +3,6 @@
 A simple programmer.
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Haskell](https://img.shields.io/badge/Haskell-000000?style=for-the-badge&logo=haskell&logoColor=blue)
 ![ASM](https://img.shields.io/badge/ASM-6E4C1E?style=for-the-badge&logo=asm&logoColor=white)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/oled)
 

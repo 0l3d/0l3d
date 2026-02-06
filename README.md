@@ -1,4 +1,4 @@
-# Hello, I'm 0l3d.
+# I'm 0l3d
 
 A simple programmer.
 

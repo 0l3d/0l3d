@@ -13,5 +13,3 @@ $ ffetch
  |-/.____.  SEED:      0xBAADF00D
 /___\ /___\ CCParams:  -O2 -g -Wall -Wextra -ffast-math
 ```
-
-My Website/Image Board/Wiki's/Static Git: https://0l3d.github.io

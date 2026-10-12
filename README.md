@@ -6,16 +6,17 @@ A simple programmer.
 use("io")
 var i = -1
 while ({ $i = $i + 1 return $i < 1000}) then
-   io.print("i: ", $i, "\n") 
+   io.print("i: ", $i, "\n")
 end
 var name = ""
-io.print("Your name is ", {$name = io.input("Enter your name: ") return $name}, "\n")
+io.print("Your name is ", {$name = io.input("Enter your name: ")})
+$name + "\n" |> io.print
 if $name equ "0l3d" then
    io.print("M/D/C/G: 16G/512G/I5 12450HX/ARC A530M\n")
 elif $name equ "unknown" then
-   io.print(":D\n")
+   ":D\n" |> io.print
 else
-   io.print("No name?\n")
+   io.print("No name? Get one.\n")
 end
 ```
 <sub><i>SL Scripting Language</i></sub>
